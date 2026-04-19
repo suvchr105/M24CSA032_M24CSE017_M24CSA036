@@ -1,4 +1,5 @@
 # AVQACL Novelty: Enhanced Audio-Visual Question Answering
+<img width="1372" height="784" alt="T-AVQCL architecture" src="https://github.com/user-attachments/assets/5552ada9-9693-4e74-ac83-6131a3b8b672" />
 
 This directory contains the **Novelty Implementation** of the Audio-Visual Question Answering Continual Learning (AVQACL) framework. This version introduces several state-of-the-art enhancements designed to improve cross-modal representation learning, increase parameter efficiency, and mitigate catastrophic forgetting through representative memory selection.
 
